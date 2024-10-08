@@ -1,4 +1,4 @@
-# Lab 2: Set up the Compute Instance and Connect to GitHub Code
+# Lab 2: Set up the Compute Instance and Connect to GitHub Code    
 
 ### Objective 
 This lab you will be creating a virtual machine that will install python 3.11, clone the GitHub Repo, and open necessary port. 
